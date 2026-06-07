@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: f7296ed0d13cc8144a3319addb9c2bf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3457448024721243918
+    second: Goal_0
+  - first:
+      213: -2296653774574130574
+    second: Goal_1
+  - first:
+      213: 1264859357577811474
+    second: Goal_2
+  - first:
+      213: 7844182729511624186
+    second: Goal_3
+  - first:
+      213: -7793778643961550407
+    second: Goal_4
+  - first:
+      213: -6906962970955666184
+    second: Goal_5
+  - first:
+      213: -3916051155518876698
+    second: Goal_6
+  - first:
+      213: -3832942874450470369
+    second: Goal_7
+  - first:
+      213: 3209215203435626727
+    second: Goal_8
+  - first:
+      213: -3634705441377967670
+    second: Goal_9
+  - first:
+      213: 9221520007832054763
+    second: Goal_10
+  - first:
+      213: 1768794698381305466
+    second: Goal_11
+  - first:
+      213: 5732125287209833318
+    second: Goal_12
+  - first:
+      213: -1323537159267279163
+    second: Goal_13
+  - first:
+      213: -1858813151365803647
+    second: Goal_14
+  - first:
+      213: -6338621403209508413
+    second: Goal_15
+  - first:
+      213: 3024971689687890861
+    second: Goal_16
+  - first:
+      213: 1592416057690579882
+    second: Goal_17
+  - first:
+      213: -2145502983662047040
+    second: Goal_18
+  - first:
+      213: 1978717756222728569
+    second: Goal_19
+  - first:
+      213: -4757194312686538765
+    second: Goal_20
+  - first:
+      213: 9147951201767701904
+    second: Goal_21
+  - first:
+      213: -1973450568774827847
+    second: Goal_22
+  - first:
+      213: 7934420856784395649
+    second: Goal_23
+  - first:
+      213: -6710621349662017014
+    second: Goal_24
+  - first:
+      213: 7861263754233764210
+    second: Goal_25
+  - first:
+      213: -5284162414651189665
+    second: Goal_26
+  - first:
+      213: -722613239712639399
+    second: Goal_27
+  - first:
+      213: -4787289697495395027
+    second: Goal_28
+  - first:
+      213: 3830762411103759612
+    second: Goal_29
+  - first:
+      213: -4702549355384321219
+    second: Goal_30
+  - first:
+      213: 4129057731425989586
+    second: Goal_31
+  - first:
+      213: -2524202977948022214
+    second: Goal_32
+  - first:
+      213: 75847787510445635
+    second: Goal_33
+  - first:
+      213: -2148384990069073552
+    second: Goal_34
+  - first:
+      213: -2482913602688961253
+    second: Goal_35
+  - first:
+      213: -5369189800058782092
+    second: Goal_36
+  - first:
+      213: 3678111126043111523
+    second: Goal_37
+  - first:
+      213: 1666075537988630779
+    second: Goal_38
+  - first:
+      213: -8049689910402840590
+    second: Goal_39
+  - first:
+      213: 8119414075030277551
+    second: Goal_40
+  - first:
+      213: 3233558918897660180
+    second: Goal_41
+  - first:
+      213: 2937214321821642716
+    second: Goal_42
+  - first:
+      213: -6681393323787783573
+    second: Goal_43
+  - first:
+      213: 9139152611988689229
+    second: Goal_44
+  - first:
+      213: 7188298587998156313
+    second: Goal_45
+  - first:
+      213: -3419895647628406598
+    second: Goal_46
+  - first:
+      213: -8927250602476964236
+    second: Goal_47
+  - first:
+      213: 2209497291793477200
+    second: Goal_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f04d11075da400d0800000000000000
+      internalID: -3457448024721243918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goal_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ae27a6f85a020e0800000000000000
+      internalID: -2296653774574130574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goal_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216114b52eead8110800000000000000
+      internalID: 1264859357577811474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goal_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd5bc9d1a22cdc60800000000000000
+      internalID: 7844182729511624186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goal_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b965a4dd9fe6d390800000000000000
+      internalID: -7793778643961550407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goal_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc2967c5c98520a0800000000000000
+      internalID: -6906962970955666184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 242f0d77b01b65f46a56562f82606c3e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":2.0},"gridSpriteSize":{"x":512.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Goal_0: -3457448024721243918
+      Goal_1: -2296653774574130574
+      Goal_2: 1264859357577811474
+      Goal_3: 7844182729511624186
+      Goal_4: -7793778643961550407
+      Goal_5: -6906962970955666184
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
